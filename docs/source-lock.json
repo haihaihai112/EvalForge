@@ -1,0 +1,11 @@
+{
+  "investigation_date": "2026-10-14",
+  "method": "git shallow sparse checkout and static source reading",
+  "rea": {"version": "6.4.0", "role": "workflow guidance; complete-source routing rule"},
+  "repositories": [
+    {"url": "https://github.com/confident-ai/deepeval", "commit": "016946f6d770f8bc4e2f63f665140aea527d6641", "license": "Apache-2.0", "declared_version": "4.2.8"},
+    {"url": "https://github.com/Arize-ai/phoenix", "commit": "9793e30feae1949f7bf972613aaf4275dc0b1b0b", "license": "ELv2 at root; subpackage metadata differences recorded in audit"}
+  ],
+  "runtime_upstream_libraries": [],
+  "live_model_evaluation_performed": false
+}
